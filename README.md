@@ -1,5 +1,4 @@
-# assignments_image_processing_for_vision_and_graphics
-## Assignments related to the course [Fundamentals and Trends in Vision and Image Processing (2017)](http://w3.impa.br/~lvelho/ip17/)
+# Assignments related to the course [Fundamentals and Trends in Vision and Image Processing (2017)](http://w3.impa.br/~lvelho/ip17/)
 The codes included in this repository are adapted from the ones used in the [Udacity](https://br.udacity.com/course/deep-learning--ud730/) 
 Deep Learning classes with [Tensorflow](https://www.tensorflow.org/).  
 
